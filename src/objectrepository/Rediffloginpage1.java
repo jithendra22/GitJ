@@ -24,7 +24,7 @@ public class Rediffloginpage1 {
 
 	@FindBy(name = "passwd")
 	WebElement Password;
-
+system.out.println("jithendra");
 	@FindBy(linkText = "Home")
 	WebElement home;
 
